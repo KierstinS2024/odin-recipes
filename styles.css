@@ -1,3 +1,7 @@
+h1 {
+    text-align: center;
+    color: #333;
+}
 .recipe-list {
     list-style-type: none;
     padding: 0;
